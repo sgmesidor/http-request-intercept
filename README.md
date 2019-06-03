@@ -1,2 +1,2 @@
 # http-request-intercept
-Firefox broswer extension to intercept http requests
+This is a simple Firefox broswer extension made to intercept http requests. 
